@@ -1,7 +1,7 @@
 # th06-portable-macos-ex
 
 修改自 [GensokyoClub/th06](https://github.com/GensokyoClub/th06/tree/portable)
-⚠️⚠️⚠️ 100% Vibe Coding ⚠️⚠️⚠️
+- ⚠️⚠️⚠️ 100% Vibe Coding ⚠️⚠️⚠️
 
 ---
 
