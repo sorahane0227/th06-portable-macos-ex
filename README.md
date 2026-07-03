@@ -3,6 +3,8 @@
 修改自 [GensokyoClub/th06](https://github.com/GensokyoClub/th06/tree/portable)
 - ⚠️⚠️⚠️ 100% Vibe Coding ⚠️⚠️⚠️
 
+[English version](README_EN.md)
+
 ---
 
 ## 新增功能
