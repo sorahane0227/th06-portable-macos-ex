@@ -141,14 +141,6 @@ python3 package_app.py
 
 生成 `th06.app` 后双击即可运行，也可拖入 `/Applications`。
 
-### 使用 IAC Driver 连接 Logic Pro 等 DAW
-
-1. 打开 **Audio MIDI Setup**（应用程序 → 实用工具）
-2. 菜单栏 → 窗口 → 显示 MIDI 工作室
-3. 双击 **IAC Driver** → 勾选"设备已在线" → 添加所需总线
-4. 运行 `th06_config` → Music Mode 选 **MIDI** → MIDI Device 选对应总线
-5. 在 Logic Pro 中创建外部 MIDI 轨道，输入端口选 IAC Driver 对应总线
-
 ---
 
 ## 项目结构

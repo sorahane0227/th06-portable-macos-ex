@@ -141,14 +141,6 @@ The script automatically:
 
 After packaging, double-click `th06.app` to run, or drag it into `/Applications`.
 
-### Using IAC Driver with Logic Pro or other DAWs
-
-1. Open **Audio MIDI Setup** (Applications → Utilities)
-2. Menu bar → Window → Show MIDI Studio
-3. Double-click **IAC Driver** → check "Device is online" → add desired buses
-4. Run `th06_config` → Music Mode: **MIDI** → MIDI Device: choose the IAC bus
-5. In Logic Pro, create an external MIDI track with the IAC bus as input
-
 ---
 
 ## Project Structure
